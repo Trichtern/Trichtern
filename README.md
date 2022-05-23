@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Thomas
 
-<!--
-**Trichtern/Trichtern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+- 💪 Currently working as a freelance developer.
+- 🌱 I’m currently learning Java.
+- 🎯 Wasting my time to save other people's time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
+  <a href="https://github.com/einTosti">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trichtern&show_icons=true&&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true"/>
+  </a>
+</p>
+
+### 🌏 &nbsp;My Community
+
+Need help with any of my products? Join here!
+
+[![Community](https://discordapp.com/api/guilds/419460301403193344/widget.png?style=banner2)](https://einTosti.com/discord)
