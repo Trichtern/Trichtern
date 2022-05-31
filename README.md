@@ -15,10 +15,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <a href="https://github.com/einTosti">
+  <a href="https://github.com/Trichtern">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trichtern&show_icons=true&&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true"/>
   </a>
 </p>
+
+### 💬 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trichtern&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true)
 
 ### 🌏 &nbsp;My Community
 
